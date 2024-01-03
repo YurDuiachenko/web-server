@@ -1,0 +1,5 @@
+addr = "localhost:8000"
+log_level = "debug"
+
+[store]
+database_url = "postgres://postgres:postgres@localhost:5432/postgres?sslmode=disable"
